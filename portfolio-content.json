@@ -12,7 +12,8 @@
     "img2": "",
     "img3": "",
     "alt2": "",
-    "alt3": ""
+    "alt3": "",
+    "imglink1": "https://www.nbcnews.com/data-graphics/people-disabilities-are-disproportionately-impacted-natural-disasters-rcna192577"
   },
   {
     "categories": "data-journalism , web-dev",
@@ -27,7 +28,8 @@
     "img2": "",
     "img3": "",
     "alt2": "",
-    "alt3": ""
+    "alt3": "",
+    "imglink1": "https://www.disabilityindisaster.com"
   },
   {
     "categories": "data-journalism",
@@ -42,7 +44,8 @@
     "img2": "",
     "img3": "",
     "alt2": "",
-    "alt3": ""
+    "alt3": "",
+     "imglink1": "https://www.nbcnews.com/data-graphics/data-shows-wine-decline-consumers-spending-less-drinking-less-rcna187628"
   },
   {
     "categories": "data-journalism",
@@ -57,7 +60,8 @@
     "img2": "",
     "img3": "",
     "alt2": "",
-    "alt3": ""
+    "alt3": "",
+    "imglink1": "https://www.nbcnews.com/data-graphics/trump-tariffs-car-insurance-bill-price-auto-repair-cost-rcna201392"
   },
   {
     "categories": "data-journalism",
@@ -72,7 +76,8 @@
     "img2": "",
     "img3": "",
     "alt2": "",
-    "alt3": ""
+    "alt3": "",
+    "imglink1": "https://www.nbcnews.com/data-graphics/christmas-tree-farms-face-new-perils-rcna184769"
   },
    {
     "categories": "design , marketing",
@@ -87,7 +92,10 @@
     "img2": "images/pages.jpeg",
     "img3": "images/cannibal.jpeg",
     "alt2": "A collection of pages ripped from a book with Promising Young Writer written in the middle.",
-    "alt3": "Vector art of a vampire that reads 'I haven't been a cannibal in years.'"
+    "alt3": "Vector art of a vampire that reads 'I haven't been a cannibal in years.'",
+    "imglink1": "https://drive.google.com/file/d/1Fs1kW3vOFnR4uDTBxrxGWSEqGdBFJDEi/view?usp=sharing",
+    "imglink2": "https://drive.google.com/file/d/1Fs1kW3vOFnR4uDTBxrxGWSEqGdBFJDEi/view?usp=sharing",
+    "imglink3": "https://drive.google.com/file/d/1Fs1kW3vOFnR4uDTBxrxGWSEqGdBFJDEi/view?usp=sharing"
   },
   {
     "categories": "data-journalism",
@@ -102,7 +110,8 @@
     "img2": "",
     "img3": "",
     "alt2": "",
-    "alt3": ""
+    "alt3": "",
+    "imglink1": "https://www.nbcnews.com/data-graphics/trump-aims-eliminate-penny-see-much-costs-produce-penny-nickel-rcna191739"
   },
   {
     "categories": "data-journalism",
@@ -117,7 +126,8 @@
     "img2": "",
     "img3": "",
     "alt2": "",
-    "alt3": ""
+    "alt3": "",
+    "imglink1": "https://www.nbcnews.com/politics/2024-election/trump-harris-running-mates-are-dividing-time-7-decisive-swing-states-rcna176870"
   },
   {
     "categories": "data-journalism, design",
@@ -132,7 +142,8 @@
     "img2": "",
     "img3": "",
     "alt2": "",
-    "alt3": ""
+    "alt3": "",
+    "imglink1": "https://www.newschoolfreepress.com/2024/04/15/the-new-york-city-subway-remains-largely-inaccessible-to-the-disabled-community/"
   },
   {
     "categories": "web-dev",
@@ -147,7 +158,8 @@
     "img2": "",
     "img3": "",
     "alt2": "",
-    "alt3": ""
+    "alt3": "",
+    "imglink1": "https://www.nbcnews.com/quiz"  
   },
   {
     "categories": "web-dev, design",
@@ -162,7 +174,8 @@
     "img2": "",
     "img3": "",
     "alt2": "",
-    "alt3": ""
+    "alt3": "",
+    "imglink1": "https://ashreyn13.github.io/commodify/"
   },
   {
     "categories": "design",
@@ -177,7 +190,8 @@
     "img2": "",
     "img3": "",
     "alt2": "",
-    "alt3": ""
+    "alt3": "",
+    "imglink1": "https://www.amazon.com/Rainbow-Letters-Gary-Watts-M-D/dp/B09YMGF8K2"
   },
   {
     "categories": "design",
@@ -192,7 +206,10 @@
     "img2": "images/misc/poster2.png",
     "img3": "images/misc/poster3.jpg",
     "alt2": "Yellow poster that looks like a yellow hurricane zone sign",
-    "alt3": "Record player with the lyrics to Hurricane written on the disc"
+    "alt3": "Record player with the lyrics to Hurricane written on the disc",
+    "imglink1": "images/misc/pdfs/posters.pdf",
+    "imglink2": "images/misc/pdfs/posters.pdf",
+    "imglink3": "images/misc/pdfs/posters.pdf"
   },
   {
     "categories": "design , marketing",
@@ -210,7 +227,7 @@
     "alt3": "Poster for J+D's 10th anniversary celebration",
     "imglink1": "https://www.instagram.com/p/DBUMcQbx3XS/",
     "imglink2": "https://www.instagram.com/p/DIt8a86xjCS/",
-    "imglink3": ""
+    "imglink3": "https://www.ashreyn.com"
   },
   {
     "categories": "design , marketing",
@@ -261,6 +278,7 @@
     "img2": "",
     "img3": "",
     "alt2": "",
-    "alt3": ""
+    "alt3": "",
+    "imglink1": "https://drive.google.com/file/d/1lJ28DD5YWYVQEjWDkJQhQ4G0o_OnyIv9/view"
   }
 ]
