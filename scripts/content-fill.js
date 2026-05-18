@@ -70,7 +70,8 @@ $(document).ready(function () {
         'data-journalism': `Here is a collection of my work so far as a data journalist! I've written data stories for NBC News and The New School Free Press, all of which are laid out here for your reading pleasure.`,
         'web-dev': `Here is a collection of my work so far as a web developer. I am proficient in HTML, CSS, JavaScript and JQuery. I also have experience using WordPress from my time working for The New School Free Press.`,
         'design': `Here is a collection of my work as a graphic designer. I've worked on a great variety of projects, from social media posts to book covers. In my time in the Communication Design program I have developed skills in Illustrator, Photoshop, InDesign and Figma.`,
-        'marketing': `Here is a collection of my work as a social media manager. I have been managing the Journalism + Design department's Instagram for over two years now, and was also Head of Social Media for The New School Free Press before becoming Creative Director. I have also managed social media accounts for various passion projects, and briefly interned with (unfortunately now defunct) sustainable fashion company Seams Better.`
+        'marketing': `Here is a collection of my work as a social media manager. I have been managing the Journalism + Design department's Instagram for over two years now, and was also Head of Social Media for The New School Free Press before becoming Creative Director. I have also managed social media accounts for various passion projects, and briefly interned with (unfortunately now defunct) sustainable fashion company Seams Better.`,
+        'writing': `Here is a collection of some of my latest writing work. In addition to newswriting I've done at NBC and the New School Free Press, I also enjoy writing more creative pieces. If you are here because I've applied for a non-writing related job, feel free to skip this section! Some of the following pieces get a bit silly...`
       };
 
       $('#explainer-content').html(explainerText[category] || '');
@@ -89,6 +90,7 @@ $(document).ready(function () {
     $('#web-dev').click(() => setCategory('web-dev'));
     $('#design').click(() => setCategory('design'));
     $('#marketing').click(() => setCategory('marketing'));
+    $('#writing').click(() => setCategory('writing'));
 
     // Back / forward navigation
     window.addEventListener('popstate', function (event) {

@@ -16,7 +16,7 @@
     "imglink1": "https://www.nbcnews.com/data-graphics/people-disabilities-are-disproportionately-impacted-natural-disasters-rcna192577"
   },
   {
-    "categories": "data-journalism , web-dev",
+    "categories": "data-journalism , web-dev, writing",
     "publication": "Senior Capstone",
     "contribution": "Writing, Reporting, Graphics and Web Design",
     "hed": "Disability in Disaster: After the L.A. wildfires",
@@ -130,7 +130,7 @@
     "imglink1": "https://www.nbcnews.com/politics/2024-election/trump-harris-running-mates-are-dividing-time-7-decisive-swing-states-rcna176870"
   },
   {
-    "categories": "data-journalism, design",
+    "categories": "data-journalism, design, writing",
     "publication": "New School Free Press",
     "contribution": "Writing, Reporting, and Graphics",
     "hed": "The New York City subway remains largely inaccessible to the disabled community",
@@ -212,6 +212,22 @@
     "imglink3": "images/misc/pdfs/posters.pdf"
   },
   {
+    "categories": "writing",
+    "publication": "Substack",
+    "contribution": "Writing",
+    "hed": "Meow, is there a cat in here?",
+    "dek": "This is my Substack, 'Meow, is there a cat in here?... and other existential questions.' Here I publish a variety of short-form humor essays trying to answer life's big questions, such as 'What to do with a Zootopia 2 souvenir cup?' or 'Why am I so obsessed with bad improv?' These can get a bit silly and are fiercely opionated, hut people seem to enjoy them!",
+    "img": "images/meow.webp",
+    "widgtype": "story",
+    "link": "https://meowisthereacatinhere.substack.com/",
+    "alt": "Vector art of a cat that reads 'meow, is there a cat in here?'",
+    "img2": "",
+    "img3": "",
+    "alt2": "",
+    "alt3": "",
+    "imglink1": "https://meowisthereacatinhere.substack.com/"
+  },
+  {
     "categories": "design , marketing",
     "publication": "Journalism + Design",
     "contribution": "Graphic Design and Branding",
@@ -280,5 +296,21 @@
     "alt2": "",
     "alt3": "",
     "imglink1": "https://drive.google.com/file/d/1lJ28DD5YWYVQEjWDkJQhQ4G0o_OnyIv9/view"
+  },
+  {
+    "categories": "writing",
+    "publication": "Playground",
+    "contribution": "Writing",
+    "hed": "Promising Young Writer",
+    "dek": "This is a dramatic reading of a Twilight-spoof play that I wrote, called 'Promising Young Writer.' It is extremely silly but also extremely funny! I performed this play in partnership with the Playground Club at The New School in the fall of 2025. You can watch the full performance on <a href='https://youtu.be/YTJwbIIX30A?si=NLOX0zdSmqCiRmWc' target='_blank'>YouTube</a>!",
+    "img": "images/script.jpeg",
+    "widgtype": "story",
+    "link": "https://youtu.be/YTJwbIIX30A?si=NLOX0zdSmqCiRmWc",
+    "alt": "Sparking handprint on a Promising Young Writer script",
+    "img2": "",
+    "img3": "",
+    "alt2": "",
+    "alt3": "",
+    "imglink1": "https://youtu.be/YTJwbIIX30A?si=NLOX0zdSmqCiRmWc"
   }
 ]
