@@ -32,6 +32,24 @@
     "imglink1": "https://www.disabilityindisaster.com"
   },
   {
+    "categories": "design",
+    "publication": "Class Project",
+    "contribution": "Poster Design",
+    "hed": "Manifesto Posters",
+    "dek": "For one of my first design classes at Parsons, I designed 3 different posters for Bob Dylan's song 'Hurricane.' The first uses only type and letterforms, the second uses type and limited graphic elements, and the third uses type and image. In all honesty this project was grueling, but I'm very happy with the final products! <a href='images/misc/pdfs/posters.pdf' target='_blank'>You can view a the full PDF versions of the posters here.</a>",
+    "img": "images/misc/poster1.jpg",
+    "widgtype": "images",
+    "link": "images/misc/pdfs/posters.pdf",
+    "alt": "Black roads crossing over a bright red background with the word HURRICANE at the top.",
+    "img2": "images/misc/poster2.png",
+    "img3": "images/misc/poster3.jpg",
+    "alt2": "Yellow poster that looks like a yellow hurricane zone sign",
+    "alt3": "Record player with the lyrics to Hurricane written on the disc",
+    "imglink1": "images/misc/pdfs/posters.pdf",
+    "imglink2": "images/misc/pdfs/posters.pdf",
+    "imglink3": "images/misc/pdfs/posters.pdf"
+  },
+  {
     "categories": "data-journalism",
     "publication": "NBC News",
     "contribution": "Writing, Reporting, and Graphics",
@@ -208,24 +226,6 @@
     "alt2": "",
     "alt3": "",
     "imglink1": "https://www.amazon.com/Rainbow-Letters-Gary-Watts-M-D/dp/B09YMGF8K2"
-  },
-  {
-    "categories": "design",
-    "publication": "Class Project",
-    "contribution": "Poster Design",
-    "hed": "Manifesto Posters",
-    "dek": "For one of my first design classes at Parsons, I designed 3 different posters for Bob Dylan's song 'Hurricane.' The first uses only type and letterforms, the second uses type and limited graphic elements, and the third uses type and image. In all honesty this project was grueling, but I'm very happy with the final products! <a href='images/misc/pdfs/posters.pdf' target='_blank'>You can view a the full PDF versions of the posters here.</a>",
-    "img": "images/misc/poster1.jpg",
-    "widgtype": "images",
-    "link": "images/misc/pdfs/posters.pdf",
-    "alt": "Black roads crossing over a bright red background with the word HURRICANE at the top.",
-    "img2": "images/misc/poster2.png",
-    "img3": "images/misc/poster3.jpg",
-    "alt2": "Yellow poster that looks like a yellow hurricane zone sign",
-    "alt3": "Record player with the lyrics to Hurricane written on the disc",
-    "imglink1": "images/misc/pdfs/posters.pdf",
-    "imglink2": "images/misc/pdfs/posters.pdf",
-    "imglink3": "images/misc/pdfs/posters.pdf"
   },
   {
     "categories": "writing",
